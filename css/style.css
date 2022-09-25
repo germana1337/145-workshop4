@@ -1,0 +1,154 @@
+body{
+    background-color: bisque;
+}
+header{
+    /* padding: 30px; */
+    height: 80px;
+    color: #111;
+}
+.navdiv{
+    width: 100%;
+    height: 150px;
+    font-size: 18px;
+    background-color: #C4C4C4;
+}
+.navclass li{
+    margin-top: 70px;
+    margin-left: 10px;
+    display: inline-block;
+}
+.slaiderdiv{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    margin-top: 60px;
+    background-color: #3D3D3D;
+}
+.h2class {
+ margin-left: 700px;
+ padding-top: 200px;
+}
+.div1{
+    width: 470px;
+   height: 200px;
+   /* opacity: 0.5; */
+   margin-left: 140px;
+   margin-top: 20px;
+   display: inline-block;
+   background-color: #FF9900
+   
+   
+}
+.div2{
+    width: 470px;
+    height: 200px;
+    /* opacity: 0.5; */
+    display: inline-block;
+    background-color: #FFC700
+ }
+ .div3{
+    width: 470px;
+    height: 200px;
+    /* opacity: 0.5; */
+    display: inline-block;
+    background-color: #FFE600
+ }
+ .div4{
+    width: 470px;
+    height: 170px;
+    display: inline-block;
+    margin-left: 140px;
+    background-color: #FF9900 ;
+ }
+ .div5{
+    width: 470px;
+    height: 170px;
+    display: inline-block;
+    background-color: #FFC700 ;
+ }
+ .div6{
+    width: 470px;
+    height: 170px;
+    display: inline-block; 
+    background-color: #FFE600;
+ }
+ .text1.text2.text3{
+    font-size: 14px;
+    color: gray;
+ }
+ .text1.text2.text3 p{
+    font-size: 12px;
+ }
+ .pclass, .pclass2, .pclass3{
+    font-size: 12px;
+    opacity: 0.5;
+ }
+ .rivenimg, .katarinaimg, .ireliaimg{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+ }
+
+.back{
+    margin: 100px 0 15px 45px;
+/* margin-top: 100px;
+margin-bottom: 15px;
+margin-left: 45px; */
+}
+.newsdiv1 {
+    width: 1550px;
+    height: 700px;
+    background-color: #FF9900;
+    margin-left: 45px;
+}
+.newsbaby{
+    width: 100%;
+    height: 100px;
+    background-color: #FF9900
+}
+.babytext{
+    padding-top:  50px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+.middlediv{
+width: 500px;
+height: 200px;
+background-color: white;
+display: inline-block;
+margin-left: 10px;
+}
+.lowerdiv{
+    width: 100%;
+    height: 400px;
+    background-color: #FF9900
+}
+.ekoimg{
+    width: 100%;
+    height: 100%;
+}
+.lowertext{
+    font-size: 16px;
+    margin-top: 45px;
+}
+.footer{
+    margin-left: 45px;
+    margin-top: 100px;
+}
+.newsdiv2{
+    width: 1550px;
+    height: 700px;
+    margin-left: 45px;
+    background-color: #FFE600;
+    
+}
+.newsbaby2{
+    width: 100%;
+    height: 100px;
+    background-color:#FFE600;
+}
+.lowerdiv2{
+    width: 100%;
+    height: 400px;
+    background-color: #FFE600;
+}
